@@ -10,7 +10,6 @@ function returnsANamedFunction() {
   return named_function
 }
 
-
 function returnsAnAnonymousFunction() {
   return function() {
     console.log('an anonymous function') 
